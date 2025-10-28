@@ -1,0 +1,21 @@
+{
+    "animals": [
+        "elephant", "giraffe", "kangaroo", "dolphin", "buffalo", "panther", 
+        "cheetah", "pelican", "penguin", "ostrich", "jaguar", "gazelle", 
+        "hamster", "walrus", "cormorant"
+    ],
+    "food": [
+        "banana", "pumpkin", "avocado", "spinach", "lasagna", "oatmeal", 
+        "kimchi", "almonds", "croissant", "coleslaw", "peanut", "popcorn", 
+        "radish", "walnuts", "gingerbread"
+    ],
+    "countries": [
+        "Germany", "Hungary", "Ireland", "Morocco", "Nigeria", "Estonia", 
+        "Bolivia", "Finland", "Croatia", "Uruguay", "Belarus", "Ecuador", 
+        "Senegal", "Lebanon", "Jamaica"
+    ],
+    "colors": [
+        "red", "green", "blue", "yellow", "cyan", "magenta", "black", 
+        "white", "gray", "orange"
+    ]
+}
