@@ -7,7 +7,7 @@ These are my solutions to each of the projects in the book 'The Big Book of Smal
 - Most projects use the Python standard library. A few projects use external library libraries including pyperclip and colorama
 
 ## How-to
-1. Clone the project: https://github.com/sammclennan/big-book-of-small-python-projects
+1. Clone the project: git clone https://github.com/sammclennan/big-book-of-small-python-projects.git
 2. Run any of the scripts: python bagels.py
 
 ## Notes
